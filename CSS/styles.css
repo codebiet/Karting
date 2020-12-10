@@ -193,26 +193,17 @@ label{
   margin-bottom: 10%;
 }
 
-/* .ab-heading{
-  position: absolute;
-  color: #ffffff;
-  font-family: 'Spartan', sans-serif;
-  font-size: 3vw;
-  margin: 4% 45% 0 35%;
+
+
+
+
+/* resultpage */
+.result-grid{
+  font-family: 'Quicksand', sans-serif;
 
 }
 
-.about{
-  position: absolute;;
-  color: white;
-  width: 40%
-  height:60%;
-  top:20%;
-  left:15%;
-  right: 40%;
+.product-result{
   text-align: center;
-} */
-.about{
-  font-family: 'Overpass', sans-serif;
-
+  align-items: center;
 }
