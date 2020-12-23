@@ -44,11 +44,13 @@ Django is a Python-based free and open-source web framework that follows the mod
 
 
 #### OUR TEAM: Hustle
-MEMBER NAME | BRANCH | YEAR
------------- | -------------
-Shivangi Shukla | Mechanical Engineering| 2nd year
-Anshika Singh|	Computer Science Engineering| 2nd Year
-Neha Rani| Civil Engineering| 2nd year
+|MEMBER NAME    | BRANCH    |YEAR   |   
+|---------------|-----------|-------|
+| Shivangi Shukla  |Mechanical Engineering   | 2nd year  |   
+|Anshika Singh   | Computer Science Engineering  |2nd Year   |   
+| Neha Rani  | Civil Engineering  | 2nd year   |   
+
+
 
 
 MEMBER NAME	BRANCH	YEAR
