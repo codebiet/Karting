@@ -53,9 +53,6 @@ Django is a Python-based free and open-source web framework that follows the mod
 
 
 
-MEMBER NAME	BRANCH	YEAR
-Shivangi Shukla	Mechanical Engineering	2nd Year
-Anshika Singh	2nd Year
-Neha Rani	Civil Engineering	2nd Year
+
 
 
