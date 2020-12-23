@@ -7,7 +7,7 @@ INTRODUCTION: Our project aims to make online shopping a fun and easy task for a
  
 RESULT PAGE: The results are displayed in the form of grids and are clickable links the will direct the user to the website to which the product belong.
 ![Screenshot (81)](https://user-images.githubusercontent.com/71970506/102970076-e0550080-451c-11eb-8498-b663895642d8.png)
-
+![Screenshot (82)](https://user-images.githubusercontent.com/71970506/102970168-0aa6be00-451d-11eb-943a-d8995d97fc1e.png)
  
 CONTACT US PAGE: This is where the user can contact us and give feedback or ask questions.
  
