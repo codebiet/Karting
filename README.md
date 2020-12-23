@@ -2,7 +2,12 @@
 PROJECT TITLE: Karting
 CONTENTS OF THIS PROJECT
 INTRODUCTION: Our project aims to make online shopping a fun and easy task for all the shopaholics out there! This website gives user a platform where they can search and compare products from different e-commerce websites all at once. This will remove the hassle of surfing several websites while buying something. 
-[homepage](/images/https://drive.google.com/file/d/1U7yolxDp2uqtpnalXMH2vGZrmrkGY4GM/view?usp=sharing)
+<img
+src=“images/SubPronouns.jpg”
+raw=true
+alt=“Subject Pronouns”
+style=“margin-right: 10px;”
+/>
 
  
 RESULT PAGE: The results are displayed in the form of grids and are clickable links the will direct the user to the website to which the product belong.
