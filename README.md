@@ -37,11 +37,16 @@ BACK END:
 
 
 OUR TEAM: Hustle
+MEMBER NAME | BRANCH | YEAR
+------------ | -------------
+Shivangi Shukla | Mechanical Engineering| 2nd year
+Anshika Singh|	Computer Science Engineering| 2nd Year
+Neha Rani| Civil Engineering| 2nd year
 
 
 MEMBER NAME	BRANCH	YEAR
 Shivangi Shukla	Mechanical Engineering	2nd Year
-Anshika Singh	Computer Science Engineering	2nd Year
+Anshika Singh	2nd Year
 Neha Rani	Civil Engineering	2nd Year
 
 
