@@ -13,6 +13,7 @@ CONTACT US PAGE: This is where the user can contact us and give feedback or ask 
  
 
 ABOUT US: The page that tells about us, our story and our vision for this website!
+![Screenshot (83)](https://user-images.githubusercontent.com/71970506/102970287-404ba700-451d-11eb-914f-c8afbe3bcfce.png)
  
 
 TECHNOLOGIES AND LANGUAGES INVOLVED
